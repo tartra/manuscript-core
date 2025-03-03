@@ -454,3 +454,6 @@
 2025-11-25T21:06:00+07:00 | DEBUG | repo=manuscript-core | pid=9956 | action=push
 2025-02-10T07:01:00+07:00 | INFO  | repo=manuscript-core | pid=9956 | action=edit | files=5
 2025-06-17T12:13:00+07:00 | DEBUG | repo=manuscript-core | pid=9956 | action=push
+2025-12-21 11:09:00 | DEBUG | repo=manuscript-core | action=edit | files=2
+2025-10-08 17:13:00 | INFO | repo=manuscript-core | action=pull
+2025-03-03 21:17:00 | WARN | repo=manuscript-core | action=commit
